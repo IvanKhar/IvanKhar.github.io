@@ -8,7 +8,7 @@ miro.onReady(() => {
         svgIcon: icon,
         onClick: async () => {
           // Show modal and wait for user choice
-          let needToClear = confirm('Do you want delete all content?')
+          let needToClear = confirm('Do you want delete all content?)))))))')
 
           if (needToClear) {
             // Get all board objects
